@@ -3,13 +3,16 @@
 
 ## About Me
 
-I am a first-year computer engineering student with a growing interest in web and mobile development. Through my initial year of studies, I've been acquiring foundational technical skills and exploring various programming languages and frameworks. I am eager to continue learning and adapting to new challenges as I progress in my academic journey.
-
+I am a first-year computer engineering student with a burgeoning interest in web and mobile development. Throughout my inaugural year of studies, I've been honing foundational technical skills and delving into various programming languages and frameworks. As I progress in my academic journey, I am enthusiastic about continuing to learn and adapt to new challenges.
 ## Projects
 
 ### Project 1: WEB PROJECT - A WEB SITE FOR DISPLAY ENSAK EVENTS 
 
-- **Description:** Developed  WITH A TEAM OF FOUR PERSON A WEB SITE THAT DISPLAY EVENT OF SCHOOL  .
+- **Description:**Our project, the "ENSA Event Management System," addresses the need for an efficient solution to manage the diverse range of events organized by the École Nationale des Sciences Appliquées (ENSA). These events, from academic forums to student club activities, are vital for enriching student life and fostering professional development.
+
+With this in mind, we aim to develop a comprehensive web application that streamlines event planning, promotion, and registration processes. Key features include a responsive user interface, event categorization, detailed event pages, user-friendly registration forms, participant feedback sections, administrative panels for event management, and integration of Google Maps for event location display.
+
+By providing organizers with robust tools for event management and participants with a seamless registration experience, our system seeks to enhance the overall efficiency and effectiveness of event organization at ENSA. .
 - **Technologies Used:** HTML, CSS, JavaScript, Bootstrap, PHP
 - **Link:** [https://ensakevent1977.000webhostapp.com/user/newindex1.php]
 
