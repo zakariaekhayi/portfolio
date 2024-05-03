@@ -39,7 +39,7 @@ Through this project, I gained practical experience in web development, database
 - **Description:** **Project Description:**
 The project involved conducting a survey of students in ENSAK to understand their perception of the adoption of AI in higher education. The survey was conducted using a web-based platform, and the results were analyzed using statistical
 - **Technologies Used:** R LANGUAGE
-- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/WEB%20PROJECT/GYM%20PROJECT%20WITH%20PYTHON%20STREAMLIT%20DB%20ORACLE%20APEX]
+- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/R%20PROJECT%20STATS%20AI]
 
 
 ## Skills
