@@ -15,6 +15,7 @@ With this in mind, we aim to develop a comprehensive web application that stream
 By providing organizers with robust tools for event management and participants with a seamless registration experience, our system seeks to enhance the overall efficiency and effectiveness of event organization at ENSA. .
 - **Technologies Used:** HTML, CSS, JavaScript, Bootstrap, PHP
 - **Link:** [https://ensakevent1977.000webhostapp.com/user/newindex1.php]
+- **code source:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/WEB%20PROJECT/ENSAK%20EVENTS%20WITH%20HTML%20CSS%20PHP%20HEBERGE/code%20source]
 
 ### Project 2: ASSEMBLY PROJECT - CALCULATOR
 
@@ -32,13 +33,13 @@ The project involved setting up Oracle Apex databases and leveraging python with
 Through this project, I gained practical experience in web development, database management, and utilizing tools like Oracle Apex and python with libary Streamlit to create efficient and user-friendly applications.
 
 - **Technologies Used:** python(libary stream lit ) and Oracle apex database
-- **Link:** [Link to the GitHub repository]
+- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/ASSEMBLY%20PROJECT]
 
 ### Project 4: Stats Project - The Perception of Students on the Adoption of AI in Higher Education
 - **Description:** **Project Description:**
 The project involved conducting a survey of students in ENSAK to understand their perception of the adoption of AI in higher education. The survey was conducted using a web-based platform, and the results were analyzed using statistical
 - **Technologies Used:** R LANGUAGE
-- **Link:** [Link to the GitHub repository]
+- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/WEB%20PROJECT/GYM%20PROJECT%20WITH%20PYTHON%20STREAMLIT%20DB%20ORACLE%20APEX]
 
 
 ## Skills
