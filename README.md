@@ -21,7 +21,7 @@ By providing organizers with robust tools for event management and participants 
 
 - **Description:** Created a CALCULATOR program with assembly using emu8086  .
 - **Technologies Used:** assembly language registers ,emu8086 
-- **Link:** [Link to the GitHub repository]
+- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/ASSEMBLY%20PROJECT]
 
 ### Project 3: PYTHON  PRJECT - WEV APPLICATION FOR A GYM
 
@@ -33,7 +33,7 @@ The project involved setting up Oracle Apex databases and leveraging python with
 Through this project, I gained practical experience in web development, database management, and utilizing tools like Oracle Apex and python with libary Streamlit to create efficient and user-friendly applications.
 
 - **Technologies Used:** python(libary stream lit ) and Oracle apex database
-- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/ASSEMBLY%20PROJECT]
+- **Link:** [https://github.com/zakariaekhayi/portfolio/tree/main/PROJECTS/WEB%20PROJECT/GYM%20PROJECT%20WITH%20PYTHON%20STREAMLIT%20DB%20ORACLE%20APEX]
 
 ### Project 4: Stats Project - The Perception of Students on the Adoption of AI in Higher Education
 - **Description:** **Project Description:**
